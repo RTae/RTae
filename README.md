@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-&nbspMy name is Natthanan Bhukan or you can call me "Tae" and I'm from Thailand. I'm interesting in IoT, Machine Learning, CNN Model and ML in Finance. Now I’m currently learning data analytic
+My name is Natthanan Bhukan or you can call me "Tae" and I'm from Thailand. I'm interesting in IoT, Machine Learning, CNN Model and ML in Finance. Now I’m currently learning data analytic
 
 <!--
 **RTae/RTae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
