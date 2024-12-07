@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Natthanan Bhukan or you can call me "Tae" and I'm from Thailand. I'm interesting in IoT, Machine Learning, CNN Model and ML in Computer Vision. Now I’m currently learning Computer Vision.
+Hi there 🌟, my name is Natthanan Bhukan, or you can call me "Tae". Currently, I am working as a machine learning engineer at CJ Express Group to develop a machine learning system in the retail sector. 
+I graduated from King Mongkut's University of Technology Thonburi.
 
-- 🔭 I’m currently working on self-driving car
-- 🌱 I’m currently learning computer Vision
+My research interests focus on developing efficient system support to optimize AI applications within the system and algorithm.
